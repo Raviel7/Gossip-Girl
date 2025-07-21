@@ -1,0 +1,12 @@
+{
+  "name": "gossip-girl",
+  "version": "1.0.0",
+  "description": "App de fofocas anônimas",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
